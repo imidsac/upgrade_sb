@@ -45,3 +45,7 @@ group :development do
   gem 'spring'
 end
 
+# Devise and cancancan
+gem 'devise'
+gem 'devise-bootstrap-views'
+gem 'cancancan', '~> 1.10'
